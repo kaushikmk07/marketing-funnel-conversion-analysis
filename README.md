@@ -3,25 +3,25 @@
 
 This project analyzes weekly order fluctuations by examining:
 
-Traffic change vs same day last week
+1. Traffic change vs same day last week
 
-Overall funnel conversion trends
+2. Overall funnel conversion trends
 
-Stage-wise conversion (L2M, M2C, C2P, P2O)
+3. Stage-wise conversion (L2M, M2C, C2P, P2O)
 
-High vs Low performance days
+4. High vs Low performance days
 
 The objective was to identify whether order volatility is driven by traffic acquisition or conversion efficiency.
 
 📁 Dataset Structure
 
-Session / Traffic Data
+* Session / Traffic Data
 
-Weekly Order Change Analysis
+* Weekly Order Change Analysis
 
-Stage-wise Conversion Breakdown
+* Stage-wise Conversion Breakdown
 
-High vs Low Fluctuation Tagging
+* High vs Low Fluctuation Tagging
 
 📈 Analysis Performed
 1. Traffic vs Orders Comparison
@@ -38,32 +38,32 @@ Identified which funnel stage contributes most to performance instability.
 
 🔎 Key Insights
 
-Large order drops correlate strongly with major traffic decline.
+* Large order drops correlate strongly with major traffic decline.
 
-Moderate order volatility often occurs despite stable traffic, indicating conversion impact.
+* Moderate order volatility often occurs despite stable traffic, indicating conversion impact.
 
-M2C (Menu → Cart) is the most volatile stage and primary instability driver.
+* M2C (Menu → Cart) is the most volatile stage and primary instability driver.
 
-Checkout and payment stages show periodic friction affecting final orders.
+* Checkout and payment stages show periodic friction affecting final orders.
 
 🛠 Tools Used
 
-Microsoft Excel
+* Microsoft Excel
 
-Pivot Tables
+* Pivot Tables
 
-KPI & Funnel Calculations
+* KPI & Funnel Calculations
 
-Week-over-Week Performance Analysis
+* Week-over-Week Performance Analysis
 
 💼 Business Value
 
 This project demonstrates:
 
-Funnel KPI reasoning
+* Funnel KPI reasoning
 
-Traffic vs Conversion root cause analysis
+* Traffic vs Conversion root cause analysis
 
-Stage-wise volatility evaluation
+* Stage-wise volatility evaluation
 
-Data-driven performance diagnosis
+* Data-driven performance diagnosis
